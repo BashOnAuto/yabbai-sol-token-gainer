@@ -1,0 +1,6 @@
+{
+  "name": "Solana Token Growth Engine & Analytics",
+  "description": "Professional Solana on-chain growth engine with rise farming, automated liquidity & volume strategies, AI social media campaign generation, real-time portfolio tracking, and prompted investor landing page.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
