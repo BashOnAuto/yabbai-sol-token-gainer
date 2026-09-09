@@ -1,0 +1,1 @@
+# yabbai-sol-token-gainer
